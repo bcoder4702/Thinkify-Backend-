@@ -1,3 +1,3 @@
 # Thinkify
-An Articles,Blogs,views writing App for the community
-(TechStack Used: Nodejs and MongoDB)
+An Articles,Blogs,views writing App for the community.
+TechStack Used: Nodejs and MongoDB
